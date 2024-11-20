@@ -11,7 +11,7 @@
 
 ## Usage Instructions
 ### 1.Choose an option from the menu:
-1: Add a new record.
+###### 1: Add a new record.
 2: Display all records.
 3: Search for a specific record.
 4: Delete a record.
